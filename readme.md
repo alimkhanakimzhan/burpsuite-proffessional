@@ -1,6 +1,6 @@
 #Burp Suite Professional instr. alimkhan
 
-Download a RAR archive
+Download a RAR archive, then unarchive it on your OS
 
 1) Разархивировать tar
 2) Переместим наши два .jar файла в папку "jre1.8.0_291/bin"
